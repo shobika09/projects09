@@ -1,0 +1,25 @@
+table{ 
+ border:2px solid black;
+ width:550px;
+ height: 250px;
+ margin:auto;
+ margin-top: 100px; 
+ border-collapse:collapse;
+ 
+text-align: center; 
+}
+
+
+h1{
+	Color:rgb(35, 47, 38);
+	font-family: Times New Roman;
+    text-align: center;
+}
+ 
+th{
+	background-color: rgb(93, 83, 85);
+}
+
+td{
+	background-color: rgb(156, 154, 151); 
+}
